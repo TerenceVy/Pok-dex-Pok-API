@@ -1,0 +1,47 @@
+{
+  "name": "pokejs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "chart.js": "2.7.3",
+    "classnames": "2.2.6",
+    "link-react": "^3.0.0",
+    "moment": "2.24.0",
+    "native-base": "^2.13.8",
+    "node-sass": "4.11.0",
+    "nouislider": "13.1.1",
+    "perfect-scrollbar": "1.4.0",
+    "react": "^16.11.0",
+    "react-bootstrap-switch": "15.5.3",
+    "react-chartjs-2": "2.7.4",
+    "react-datetime": "2.16.3",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "reactstrap": "7.1.0",
+    "styled-components": "^4.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
