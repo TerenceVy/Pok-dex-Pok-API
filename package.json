@@ -8,7 +8,7 @@
     "chart.js": "2.7.3",
     "classnames": "2.2.6",
     "link-react": "^3.0.0",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "native-base": "^2.13.8",
     "node-sass": "4.11.0",
     "nouislider": "13.1.1",
